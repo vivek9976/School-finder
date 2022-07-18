@@ -22,8 +22,8 @@ We have found out the problem that generally parents do rush here and there to f
             EMAIL.ID:<i>b20168@students.iitmandi.ac.in</i><br><br>
             <i>Pallav Varshney</i><br>
             EMAIL.ID:<i>b20160@students.iitmandi.ac.in</i><br><br>
-            <i>Alok Raj<br>
-            EMAIL.ID:<i>b20274@students.iitmandi.ac.in</i><br>
+            <i>Vivek Jaiswal<br>
+            EMAIL.ID:<i>b20172@students.iitmandi.ac.in</i><br>
 
     </div>
     </center>
